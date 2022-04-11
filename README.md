@@ -1,3 +1,3 @@
 # _All
-Usa como teste o site da Atv-1, nele testo coisas afins
+Usa como base oque aprendi em bootstrap, html e css, nele testo coisas afins
 (Vou tentar atualizalo semanalmente)
